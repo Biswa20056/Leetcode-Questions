@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
