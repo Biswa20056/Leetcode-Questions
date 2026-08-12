@@ -8,17 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
@@ -48,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
