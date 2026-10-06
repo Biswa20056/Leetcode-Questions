@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Biswa20056/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
